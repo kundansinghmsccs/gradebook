@@ -1,0 +1,15 @@
+C:\Users\kundan\gradebook\src\GradeBook\bin\Debug\net6.0\GradeBook.exe
+C:\Users\kundan\gradebook\src\GradeBook\bin\Debug\net6.0\GradeBook.deps.json
+C:\Users\kundan\gradebook\src\GradeBook\bin\Debug\net6.0\GradeBook.runtimeconfig.json
+C:\Users\kundan\gradebook\src\GradeBook\bin\Debug\net6.0\GradeBook.dll
+C:\Users\kundan\gradebook\src\GradeBook\bin\Debug\net6.0\ref\GradeBook.dll
+C:\Users\kundan\gradebook\src\GradeBook\bin\Debug\net6.0\GradeBook.pdb
+C:\Users\kundan\gradebook\src\GradeBook\obj\Debug\net6.0\GradeBook.csproj.AssemblyReference.cache
+C:\Users\kundan\gradebook\src\GradeBook\obj\Debug\net6.0\GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kundan\gradebook\src\GradeBook\obj\Debug\net6.0\GradeBook.AssemblyInfoInputs.cache
+C:\Users\kundan\gradebook\src\GradeBook\obj\Debug\net6.0\GradeBook.AssemblyInfo.cs
+C:\Users\kundan\gradebook\src\GradeBook\obj\Debug\net6.0\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\kundan\gradebook\src\GradeBook\obj\Debug\net6.0\GradeBook.dll
+C:\Users\kundan\gradebook\src\GradeBook\obj\Debug\net6.0\ref\GradeBook.dll
+C:\Users\kundan\gradebook\src\GradeBook\obj\Debug\net6.0\GradeBook.pdb
+C:\Users\kundan\gradebook\src\GradeBook\obj\Debug\net6.0\GradeBook.genruntimeconfig.cache
